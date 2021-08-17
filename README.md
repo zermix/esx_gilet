@@ -4,6 +4,8 @@ Start in server.cfg :
 
 ensure esx_gilet
 
+SHOP : https://threem-store.tebex.io/
+
 CONTACT DISCORD : ZerMix#0195
 
 OR
